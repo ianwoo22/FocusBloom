@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="purple_200">#E9D5FF</color>
+    <color name="purple_500">#A855F7</color>
+    <color name="purple_600">#9333EA</color>
+
+    <color name="emerald_400">#34D399</color>
+    <color name="emerald_500">#10B981</color>
+    <color name="emerald_600">#059669</color>
+
+    <color name="blue_400">#60A5FA</color>
+    <color name="blue_500">#3B82F6</color>
+    <color name="blue_600">#2563EB</color>
+
+    <color name="pink_400">#F472B6</color>
+    <color name="pink_500">#EC4899</color>
+    <color name="pink_600">#DB2777</color>
+
+    <color name="amber_400">#FBBF24</color>
+    <color name="orange_400">#FB923C</color>
+    <color name="orange_500">#F97316</color>
+
+    <!-- Background Colors -->
+    <color name="violet_50">#F5F3FF</color>
+    <color name="violet_100">#EDE9FE</color>
+
+    <!-- Text Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+
+    <!-- Status Bar -->
+    <color name="status_bar">#7C3AED</color>
+</resources>

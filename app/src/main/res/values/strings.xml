@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">FocusBloom</string>
+    <string name="app_logo">App Logo</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_message">Sign in to continue your journey</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Signup -->
+    <string name="create_account">Create Account</string>
+    <string name="start_journey">Start your wellness journey today</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_reflect">Reflect</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="daily_inspiration">Daily Inspiration</string>
+    <string name="your_bloom">Your Bloom</string>
+    <string name="progress">Progress</string>
+    <string name="start_focus">Start Focus Session</string>
+    <string name="choose_duration">Choose your duration</string>
+
+    <!-- Timer -->
+    <string name="quick">Quick</string>
+    <string name="pomodoro">Pomodoro</string>
+    <string name="deep_work">Deep Work</string>
+    <string name="extended">Extended</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+
+    <!-- Stats -->
+    <string name="daily_report">Daily Report</string>
+    <string name="focus_sessions">Focus Sessions</string>
+    <string name="total_focus_time">Total Focus Time</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="bloom_progress">Bloom Progress</string>
+    <string name="this_week_focus">This Week\'s Focus</string>
+
+    <!-- Reflect -->
+    <string name="reflection_moment">Reflection Moment</string>
+    <string name="save">Save</string>
+    <string name="past_reflections">Past Reflections</string>
+    <string name="no_reflections">No reflections yet. Start focusing!</string>
+
+    <!-- Profile -->
+    <string name="your_stats">Your Stats</string>
+    <string name="achievements">Achievements</string>
+    <string name="logout">Logout</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+
+    <!-- Achievements -->
+    <string name="first_focus">First Focus</string>
+    <string name="week_warrior">Week Warrior</string>
+    <string name="focus_master">Focus Master</string>
+    <string name="time_lord">Time Lord</string>
+    <string name="mindful_monk">Mindful Monk</string>
+    <string name="bloom_expert">Bloom Expert</string>
+</resources>
